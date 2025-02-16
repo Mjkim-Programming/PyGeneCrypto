@@ -1,2 +1,4 @@
 PyGeneCrypto/__pycache__
 .venv
+dist
+GeneEncrypt.egg-info
