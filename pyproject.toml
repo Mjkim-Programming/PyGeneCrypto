@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GeneEncrypt"
+version = "0.1.0"
+description = "Encrypts String to Gene Code"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    { name = "Kim Minjae", email = "mjkimprogramming@gmail.com" }
+]
+
+[project.urls]
