@@ -20,6 +20,10 @@ def GeneEncrypt(data):
             case [1, 1]:
                 res = res + "T"
     
+    return res
+
+def Compress(res):
+    # Compression
     res = list(res)
     result = ""
     i = 0
